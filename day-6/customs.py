@@ -9,10 +9,6 @@ class Custom():
     def __init__(self, answers):
         self.answers = answers
     
-    '''
-    def __repr__(self):
-        print self.answers
-'''
 class Group():
     def __init__(self):
         self.customs = []
